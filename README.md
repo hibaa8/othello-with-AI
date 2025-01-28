@@ -69,10 +69,6 @@ Replace Group1.py and randy_ai.py with any AI scripts you want to match up.
 - The **first AI script** (e.g., `Group1.py`) plays as **Black** and moves first.
 - The **second AI script** (e.g., `randy_ai.py`) plays as **White** and moves second.
 
-### Troubleshooting
-- Ensure all scripts have the correct permissions.
-- If the GUI doesn't display or the game doesn't start, check for any errors in the console and verify that all required libraries are installed.
-
 ### Acknowledgements
 Project completed with Max Watsky and Stephanie P.
 
